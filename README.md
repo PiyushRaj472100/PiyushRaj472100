@@ -1,4 +1,4 @@
-<h1 align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mayank+Singh;Welcome+to+my+Profile!" alt="Typing SVG" /> </h1>
+<h1 align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Piyush+Raj;Welcome+to+my+Profile!" alt="Typing SVG" /> </h1>
 
 <h3 align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🎓3rd+year+CSE+student+at+Chandigarh+University;Passionate+Android+Developer+%26+AI/ML+Enthusiast;SQL+Expert+%7C+Always+learning,+always+growing+🚀" alt="About Me" /> </h3>
 

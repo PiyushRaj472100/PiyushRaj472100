@@ -7,10 +7,10 @@
 <div align="center">   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </div>
 
 <h2 align="center">🚀 About Me</h2>
-- 🌱 I'm currently learning *Advanced Android Development, AI/ML, and SQL*
-- 💬 Ask me about *Kotlin, Jetpack Compose, AI/ML, and SQL*
+- 🌱 I'm currently learning *Advanced Android Development, Data Analysis, and SQL*
+- 💬 Ask me about *Kotlin, Jetpack Compose, Data, and SQL*
 - 📫 How to reach me: *piyushraj1917@gmail.com*
-- ⚡ Fun fact: *I love solving real-world problems with AI and mobile applications! ☕📱*
+- ⚡ Fun fact: *I love solving real-world problems with Ai and playing with data! ☕📱*
 
 
 

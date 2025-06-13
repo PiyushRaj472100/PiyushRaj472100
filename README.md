@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🎓4th+year+CSE+student+at+Chandigarh+University;Passionate+Android+Developer+%26+Data+Analysis+Enthusiast;SQL+Expert+%7C+Always+learning,+always+growing+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🎓4th+Year+CSE+Student+at+Chandigarh+University;Passionate+Android+Developer+%26+Data+Analytics+Enthusiast;SQL+Expert+%7C+Always+Learning,+Always+Growing+🚀" 
     alt="About Me" 
   />
 </h3>
@@ -18,6 +18,7 @@
     alt="Profile views" 
   />
 </p>
+
 
 
 <div align="center">   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </div>

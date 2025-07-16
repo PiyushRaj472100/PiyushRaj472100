@@ -1,14 +1,14 @@
 <!-- Animated Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Piyush+Raj;Welcome+to+my+Profile!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Piyush+Raj;Welcome+to+my+Profile!" 
     alt="Typing SVG" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🎓4th+Year+CSE+Student+at+Chandigarh+University;Passionate+Android+Developer+%26+Data+Analytics+Enthusiast;SQL+Expert+%7C+Always+Learning,+Always+Growing+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=850&lines=🎓4th+Year+CSE+Student+at+Chandigarh+University;Passionate+Android+Developer+%26+Data+Analytics+Enthusiast;SQL+Expert+%7C+Always+Learning,+Always+Growing+🚀" 
     alt="About Me" 
   />
 </p>

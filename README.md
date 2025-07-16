@@ -56,7 +56,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Tejas: AI Assistant](https://github.com/PiyushRaj472100/Tejas-AI) | Advanced AI assistant that controls your PC | Python, OpenCV, psutil, SpeechRecognition |
-| [Recurring Expenser](https://github.com/PiyushRaj472100/RecurringExpenser) | Multiplatform app to track recurring payments | Kotlin, Jetpack Compose, RoomDB |
+| [Recurring Expenser](https://github.com/PiyushRaj472100/Recuring-Expenser) | Multiplatform app to track recurring payments | Kotlin, Jetpack Compose, RoomDB |
 | [Used Car Price Prediction](https://github.com/PiyushRaj472100/Used-Car-Price-Prediction/tree/main/Price-Prediction-for-Used-Cars-Datascience-Project) | Predicts used car prices using ML | Python, Pandas, Scikit-learn |
 
 ---
